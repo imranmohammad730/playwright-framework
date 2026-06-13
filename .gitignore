@@ -1,0 +1,13 @@
+node_modules/
+test-results/
+playwright-report/
+playwright/.cache/
+.env
+.env.local
+.env.*.local
+*.log
+.DS_Store
+.vscode/
+.idea/
+auth/
+*storage-state.json
