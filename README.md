@@ -2,7 +2,8 @@
 
 A production-ready Playwright + TypeScript test automation framework designed for SaaS teams that need test suites which survive past 1,000 tests without falling over.
 
-Built around the patterns that actually hold up at scale: typed page objects, custom fixtures, environment-aware config, parallel sharding in CI, API + UI testing in one suite, and reporting that tells you why a test failed instead of just that it did.
+Built around the patterns that actually hold up at scale: typed page objects, custom fixtures, environment-aware config, parallel sharding in CI, API + UI testing in one suite, and reporting that tells you why a te
+<!-- Test PR to try the TestDriver AI reviewer. Not for merge. -->st failed instead of just that it did.
 
 ## Why this framework
 
